@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "audio_2_text"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

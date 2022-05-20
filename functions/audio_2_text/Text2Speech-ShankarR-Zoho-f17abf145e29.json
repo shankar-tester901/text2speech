@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "text2spch-264407",
+  "private_key_id": "f17a9c69e5bd011124342",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrDfWiHlA3++tl\ntgJqsV7HintIwhxzpwDv1L0WW+XnsldvR16SixK8RZnPLDpR9f0a6OE9KIGvjCoq\nUASJ3H2WnPnfoSQIzcmysKkptHmosInqdL+vmBEO+JsS1NmwHZWiCCgyq2BAIcKb\nvae2z/aqAH6N4SmtSTEwr26vCtvchxvLV2PXtUWnr05FmkXuNUHALw\naDhWehQ43IiF9Gvflluc1ElnR+ZxmOHmeX7B2pMwhhF0wjmKfj5oV+qJKjIz74gN\nUJIr1E1O/Tu07/SRGhsaMZFBJo/amteEhfvYofWHvrnthwp7Hh8oCZLQVbpVpidq\nHrZSk2TXAgMBAAECggEAKkCx/sBHJ3USghbSBQHYPCkAaAoO1iCYEiX2KTo9EZ0T\njPjPqxowYBI/OpYdt9YwFcAVtzI0yqSwW7BVVqqA2T3gWTWoPYZ7vqh1uMgMTzeA\nccox+VFyUUTmpWGvfhnottQV/eIoTd8o/6h676TyNK8Xk7tdutb0If9yjWeW/9cK\nehExXOVIh4l3Xas08eQOMfZB967wA7XNmOgx4uHx/N5t4zxuFGyjSMzlX7SqAc7M\nWFymDWDuzDL9RtTHRNc3ua98LbSM8B+RVX4PZ5mP5VbMOgGVZaRsoGeUVhWY+46f\ncrx5klxYhgjCdxJaLgngoaYWWoeN7ZgzfDDUdImmpQKBgQDRfZJYeAD9IMRB/v14\n4NnTOLZfkhJhE/x3IbX8p8HCtK+KKaKMH5wFGC4sJYPU7yZcaP90RYp6YefS1IlSKi3R/gwkWe6T40WXEziqopYkOFsEpQdExtMThqT\nORHDg0tR1yZdQDO/8G8/ZFMDuwKBgQDRB99J8EoRKQp++d640Cu59cgfOAIUGQzr\nrrlmZueehideJkN6g1An1Eag4W2BaSCv5iQiNRoX2ILZoK2B3NyAEmnGTMwFE6Nh\nZX4WnQgraRFbATlm4lt4PPLTQBirV898WD4rxTuq4+5CNXuUa5D0AApDJVqnfg98FBv9WcKWsHSewokMND5H2mFCf3imBT48STJ5rb24\ndCprWLkITRNfxgTbNS+d/ag5RUnEXv5IOUihAaJ4fM93+z8XekSXVuP1C9oKCAFJ\nEG2JNG/Z+LfKbqznQ/MeDQ3MzLVTdaVCg3l+I4EtZ5mU9737kE5ifYp7AoGBAMnr\nC9O1rSaUeZIctvvaA1M4S990T/WwGR4VgvybTQSB3MeCuM5AyI4g7TT9bbWDotKn\nwqHUn+cG+6dUIib+/XUt1EV869u/k6RC0SDxAfJFJUG+lf9/ixJD9eEA2pOxWDlq\nWGwZs0Cpuv70APNnUPeSjlc8XyzKm43ns89w7GBdAoGAT6TJ4mbQRptN537kPmMM\nN9kglMT8qycE8O43yJv7MBgY43fO6rvZtdkh7LVfCKD3TsEliQEb3dOBJtvQiRS+\ncm+DH0lxqRwYYcmBeqzVSXQIcPrYIt8tVPLddSIgJPF8HAiTSbiXlHerKq1OmgZP\nau5r/eyBmIS2IJqN7alYHBQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "text2speech-shanku-v@text2speech-407.iam.gserviceaccount.com",
+  "client_id": "115770589786071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text2speech-shanku-eech-264407.iam.gserviceaccount.com"
+}

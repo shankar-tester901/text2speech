@@ -1,0 +1,12 @@
+{
+	"name": "audio_2_text",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1003@zohocorp.com",
+	"dependencies": {
+		"@google-cloud/speech": "^3.5.4",
+		"node-record-lpcm16": "^1.0.1",
+		"sox": "^0.1.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
